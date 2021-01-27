@@ -1,8 +1,8 @@
-# 毕业设计_基于SpringCloud的趋势投资分析系统
+# _基于SpringCloud的趋势投资分析系统
 
 ## 介绍
 
-### **毕业设计项目：基于SpringCloud的趋势投资分析系统**
+### 基于SpringCloud的趋势投资分析系统**
 
 [点我进入项目主页](http://47.93.188.100:8031/api-view/)
 
